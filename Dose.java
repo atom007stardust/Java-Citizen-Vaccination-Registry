@@ -5,7 +5,7 @@
 
 /**
  *
- * @Sadia
+ * 
  */
 import java.util.Date; 
 public class Dose implements Comparable<Dose>{
