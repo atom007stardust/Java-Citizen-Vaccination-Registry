@@ -5,7 +5,7 @@
 
 /**
  *
- * @Sadia
+ * 
  */
 //class is abstract since I don't want to create its objects , just a base class for defining new classes that holds common properties and methods
 public abstract class Person  {  
