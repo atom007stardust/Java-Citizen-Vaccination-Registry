@@ -5,7 +5,7 @@
 
 /**
  *
- * @Sadia
+ * 
  */
 import java.util.*;
 public class Citizen extends Person implements Comparable<Citizen>{
