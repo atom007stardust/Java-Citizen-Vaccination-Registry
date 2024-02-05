@@ -5,7 +5,7 @@
 
 /**
  *
- * @Sadia
+ * 
  */
 public class HealthProfessional extends Person{
     //Data fields
